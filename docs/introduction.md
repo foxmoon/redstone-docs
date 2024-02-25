@@ -5,7 +5,7 @@ sidebar_label: "Introduction"
 
 # Introduction
 
-![Banner](/img/redstone-banner.png)
+![Banner](/static/img/redstone-banner.png)
 
 
 RedStone is an Oracle that delivers frequently updated, reliable, and diverse data feeds for your dApp and smart contracts on multiple L1s & L2s.
